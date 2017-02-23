@@ -1,0 +1,30 @@
+1. Various sources of Bigdata:
+
+      Soureces be -
+	* Social Media- tremendous amount of data are released everyday based on the user's activity.
+	* Youtube- huge amount of data are produced based on user's views,reviews,likes,dislikes,upload,download and sharing. 
+	*Meterological Department- this department has data for about hundreds of years which they compare to any waether chnages, which is huge.
+	*Bank- has details about all the customers and their daily transactions which is also very large.
+
+
+2. 3 V's of bigdata:
+
+      	Velocity- this deals with the speed at which the data is processed.
+	Variety- this deals with the types of data.
+	Volume- this deals with the amount of data.
+
+3. Horizontal Scaling and Vertical Scaling
+	
+	Horizontal Scaling-This refers to the process of adding more machines or setting up cluster or distributed environment for the software system .
+	Vertical Scaling-This refers to the process of adding more resources to the existing systems. This is done by increasing RAM capacity or disk capacity.
+
+4. Need and Working of  hadoop:
+	
+	Need of hadoop-Hadoop can handle large volume of data be it structured or unstructured or semi-structured more efficiently than the traditional methods
+		        and it is cost saving than the traditional methods and because of that robust community support that is evolving.
+	Working of hadoop-Hadoop is a collection of libraries and each library has it own task to perform.HDFS(hadoop distributed file system)
+		              writes once to the server and reads it many times. Jobtracker,this manges all the tasks and executes the job.Mapreduce is used to schedule
+		               the processes and hence the hadoop madreduce is used to execute sequence of jobs.
+
+
+	
